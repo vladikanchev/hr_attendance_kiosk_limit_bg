@@ -2,7 +2,7 @@
 <odoo>
     <template id="assets_frontend" inherit_id="web.assets_frontend" name="Kiosk Voice Assets">
         <xpath expr="." position="inside">
-            <script type="text/javascript" src="/hr_attendance_kiosk_limit/static/src/js/kiosk_voice.js"/>
+            <script type="text/javascript" src="/hr_attendance_kiosk_limit_bg/static/src/js/kiosk_voice.js"/>
         </xpath>
     </template>
 </odoo>
